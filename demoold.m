@@ -24,7 +24,7 @@ function demoold(img, pred)
 display(img);
 display(pred);
 load('/content/drive/My Drive/IC/3D_library.mat');
-addpath('/content/Tools');
+addpath('/content/3dpose/Tools');
 %pkg install -forge io;
 %pkg install -forge statistics;
 pkg load io;
